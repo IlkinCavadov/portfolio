@@ -3,7 +3,7 @@ import { Button } from '../components/Button';
 
 const GITHUB_URL = 'https://github.com/IlkinCavadov';
 const LINKEDIN_URL = 'https://www.linkedin.com/in/ilkinjavadov';
-const SHOW_AVAILABILITY = false;
+
 
 export const Hero = () => (
   <section

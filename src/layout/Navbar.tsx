@@ -16,7 +16,6 @@ export const Navbar = () => (
     >
       <a href="#top" className="flex items-baseline gap-2 text-sm tracking-[-0.01em] text-tx-1">
         <span className="font-semibold">Ilkin Javadov</span>
-        <span className="font-mono text-[11px] text-tx-3">/ JavoLab</span>
       </a>
       <div className="flex flex-wrap items-center gap-[clamp(16px,3vw,28px)] font-mono text-xs tracking-[0.02em]">
         {NAV_LINKS.map((link) => (

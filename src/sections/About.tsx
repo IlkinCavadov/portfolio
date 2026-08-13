@@ -19,7 +19,7 @@ My primary stack includes Python, FastAPI, SQL, Docker, and Linux. When needed, 
         </p>
 
         <p>
-          I share my projects under the <strong className="font-medium text-tx-strong">JavoLab</strong> brand.
+          I build software, solve problems, and share what I create — <strong className="font-medium text-tx-strong">Ilkin Javadov</strong>.
         </p>
       </div>
     </div>

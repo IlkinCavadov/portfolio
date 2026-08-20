@@ -15,10 +15,11 @@ export const Hero = () => (
       Ilkin Javadov
     </h1>
     <p className="mt-2 text-[clamp(30px,5.2vw,52px)] font-bold leading-[1.05] tracking-[-0.03em] text-tx-1">
-      Backend Developer
+      Software Engineer
     </p>
     <p className="mt-[30px] max-w-[34em] text-[clamp(17px,2vw,20px)] leading-[1.6] text-tx-2 [text-wrap:pretty]">
-      I build reliable backend systems, REST APIs, and scalable web applications.
+     I build end-to-end software systems with a focus on solid engineering, clean architecture, security, performance, and maintainability.
+
     </p>
     <div className="mt-10 flex flex-wrap gap-3">
       <Button href="#projects" variant="primary" icon={<ArrowDown size={13} className="opacity-60" aria-hidden="true" />}>
